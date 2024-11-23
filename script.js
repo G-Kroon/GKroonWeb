@@ -3,7 +3,7 @@ document.getElementById('hamburger').addEventListener('click', function() {
     navLinks.classList.toggle('active');
 });
 
-const whatsAppLink = document.querySelector('.whatsapp-link');
+/*const whatsAppLink = document.querySelector('.whatsapp-link');
 
 whatsappLink.addEventListener('click', (e) => {
 e.preventDefault();
@@ -13,4 +13,4 @@ Optional message
 const url = `(link unavailable)
 {encodeURIComponent(message)}`;
 window.open(url, '_blank'):
-});
+});*/
